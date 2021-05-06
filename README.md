@@ -6,4 +6,4 @@ a repository for all of my wasm adventures and experiments!
 It only takes one shell command and it does all of the path buisness. I'm tired so sorry for the trash explaination.
 
 I also tried to use Swiftwasm for the swift files, but my machine is not working with the latest xcode version yet, 
-so I was unable to install all of the tooling. 
+so I was unable to install all of the tooling :(. 
